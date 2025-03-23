@@ -12,8 +12,6 @@ Caso você queira entrar em contato comigo, fique à vontade para enviar uma men
 
 Valeu pela visita =]
 
-E um grande abraço ao grupo FdM ❤️
-
 <br>
 
 ## 🔧 Tecnologias e Ferramentas:
