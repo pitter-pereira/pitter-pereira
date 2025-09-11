@@ -2,9 +2,9 @@
 
 # Opa! 👋
 
-Meu nome é <code>**Pitter Pereira**</code>, Analista de Tecnologia da Informação do serviço público federal.
+Meu nome é <code>**Pitter Pereira**</code>!
 
-Atualmente sou Analista de Tecnologia da Informação da Superintendência de Tecnologia da Informação (STI), na [Universidade Federal dos Vales do Jequitinhonha e Mucuri - UFVJM](https://portal.ufvjm.edu.br/), situada em Diamantina - MG - Brasil. 
+Atualmente, sou Analista de Tecnologia da Informação da Superintendência de Tecnologia da Informação (STI), na [Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM)](https://portal.ufvjm.edu.br/), situada em Diamantina-MG, Brasil. 
 
 Para saber mais sobre minha trajetória profissional e habilidades, confira meu perfil no Linkedin: <a href="https://linkedin.com/in/pitterpereira" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="14"/></a>
 
